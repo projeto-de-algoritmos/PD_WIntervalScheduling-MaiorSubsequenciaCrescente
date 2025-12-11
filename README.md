@@ -1,4 +1,4 @@
-# NomedoProjeto
+# Weighted Interval Scheduling
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
